@@ -1,4 +1,4 @@
-SELECT [protocol].[Ticket].[TicketID]
+SELECT    [protocol].[Ticket].[TicketID]
 		, [protocol].[Ticket].[CreatedByUserName]
 		, [protocol].[Ticket].[AssignedEmployeeName]
 		, [protocol].[Ticket].[AssignedRoomName]
